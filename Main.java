@@ -11,7 +11,7 @@ import sac.graph.GraphState;
 /**
  * Puzzle przestawne
  * 
- * @author Adam Grzelak
+ * @author https://github.com/dylionen
  * @version 1.0
  */
 
